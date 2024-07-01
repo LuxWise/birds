@@ -1,0 +1,34 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/slf4j-v_2.0.13/slf4j-v_2.0.13/integration/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/slf4j-v_2.0.13/slf4j-v_2.0.13/jcl-over-slf4j/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/slf4j-v_2.0.13/slf4j-v_2.0.13/jcl-over-slf4j/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/slf4j-v_2.0.13/slf4j-v_2.0.13/jul-to-slf4j/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/slf4j-v_2.0.13/slf4j-v_2.0.13/jul-to-slf4j/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/slf4j-v_2.0.13/slf4j-v_2.0.13/log4j-over-slf4j/compatibility/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/slf4j-v_2.0.13/slf4j-v_2.0.13/log4j-over-slf4j/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/slf4j-v_2.0.13/slf4j-v_2.0.13/log4j-over-slf4j/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/slf4j-v_2.0.13/slf4j-v_2.0.13/osgi-over-slf4j/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/slf4j-v_2.0.13/slf4j-v_2.0.13/slf4j-api/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/slf4j-v_2.0.13/slf4j-v_2.0.13/slf4j-api/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/slf4j-v_2.0.13/slf4j-v_2.0.13/slf4j-ext/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/slf4j-v_2.0.13/slf4j-v_2.0.13/slf4j-ext/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/slf4j-v_2.0.13/slf4j-v_2.0.13/slf4j-jdk-platform-logging/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/slf4j-v_2.0.13/slf4j-v_2.0.13/slf4j-jdk-platform-logging/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/slf4j-v_2.0.13/slf4j-v_2.0.13/slf4j-jdk14/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/slf4j-v_2.0.13/slf4j-v_2.0.13/slf4j-jdk14/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/slf4j-v_2.0.13/slf4j-v_2.0.13/slf4j-migrator/jcl" />
+      <root url="file://$USER_HOME$/Downloads/slf4j-v_2.0.13/slf4j-v_2.0.13/slf4j-migrator/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/slf4j-v_2.0.13/slf4j-v_2.0.13/slf4j-migrator/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/slf4j-v_2.0.13/slf4j-v_2.0.13/slf4j-nop/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/slf4j-v_2.0.13/slf4j-v_2.0.13/slf4j-nop/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/slf4j-v_2.0.13/slf4j-v_2.0.13/slf4j-reload4j/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/slf4j-v_2.0.13/slf4j-v_2.0.13/slf4j-reload4j/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/slf4j-v_2.0.13/slf4j-v_2.0.13/slf4j-simple/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/slf4j-v_2.0.13/slf4j-v_2.0.13/slf4j-simple/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
