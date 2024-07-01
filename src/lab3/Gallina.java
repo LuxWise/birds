@@ -1,6 +1,8 @@
-package lab2;
+package lab3;
 
-public class Gallina extends Ave{
+import lab3.interfaces.Fly;
+
+public class Gallina extends Ave implements Fly {
     public void makeSound(){
         System.out.println("Graze");
     }
