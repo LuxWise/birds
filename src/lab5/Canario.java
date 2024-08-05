@@ -1,7 +1,7 @@
-package lab4;
+package lab5;
 
-import lab4.supertypeimp.Flight;
-import lab4.supertypeimp.Sing;
+import lab5.supertypeimp.Flight;
+import lab5.supertypeimp.Sing;
 
 import java.util.logging.Logger;
 
@@ -11,8 +11,8 @@ public class Canario extends Ave {
 
     public Canario() {
         logger.info("instanciating Canario");
-        typeFlight = new Flight();
-        typeSound = new Sing();
+        this.setTypeSound(new Sing());
+        this.setTypeFlight(new Flight());
     }
 
 }

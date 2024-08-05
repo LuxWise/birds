@@ -1,8 +1,7 @@
-package lab4;
+package lab5;
 
-import lab4.supertypeimp.Flight;
-import lab4.supertypeimp.Grasnido;
-import lab4.supertypeimp.Sing;
+import lab5.supertypeimp.Flight;
+import lab5.supertypeimp.Grasnido;
 
 import java.util.logging.Logger;
 
@@ -13,6 +12,7 @@ public class Gallina extends Ave {
     public Gallina() {
         logger.info("instanciating Gallina");
         typeFlight = new Flight();
-        typeSound = new Grasnido();
+        this.setTypeSound(new Grasnido());
+        this.setTypeFlight(new Flight());
     }
 }

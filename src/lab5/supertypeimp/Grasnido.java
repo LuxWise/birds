@@ -1,6 +1,6 @@
-package lab4.supertypeimp;
+package lab5.supertypeimp;
 
-import lab4.superType.TypeSound;
+import lab5.superType.TypeSound;
 import java.util.logging.Logger;
 
 public class Grasnido implements TypeSound {

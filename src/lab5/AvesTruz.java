@@ -1,8 +1,7 @@
-package lab4;
+package lab5;
 
-import lab4.supertypeimp.DontFlight;
-import lab4.supertypeimp.DontSing;
-import lab4.supertypeimp.Flight;
+import lab5.supertypeimp.DontFlight;
+import lab5.supertypeimp.DontSing;
 
 import java.util.logging.Logger;
 
@@ -12,7 +11,7 @@ public class AvesTruz extends  Ave {
 
     public AvesTruz() {
         logger.info("instanciating avestruz");
-        typeFlight = new DontFlight();
-        typeSound = new DontSing();
+        this.setTypeSound(new DontSing());
+        this.setTypeFlight(new DontFlight());
     }
 }

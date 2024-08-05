@@ -1,4 +1,4 @@
-package lab4.interfaces;
+package lab5.interfaces;
 
 public interface Fly {
     void fly();

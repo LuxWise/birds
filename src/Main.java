@@ -1,5 +1,8 @@
+import lab5.Test;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello Word");
+        Test test = new Test();
+        test.CanarioTest();
     }
 }

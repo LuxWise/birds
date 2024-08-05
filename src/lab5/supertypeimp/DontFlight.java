@@ -1,6 +1,6 @@
-package lab4.supertypeimp;
+package lab5.supertypeimp;
 
-import lab4.superType.TypeFlight;
+import lab5.superType.TypeFlight;
 import java.util.logging.Logger;
 
 public class DontFlight implements TypeFlight {
